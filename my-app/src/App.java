@@ -35,11 +35,8 @@ public class App {
 		int getTaxAmount = (brutoSalary * TAX) / 100;
 		int netSalary = brutoSalary - getTaxAmount;
 		System.out.println(netSalary);
-		
-		
-		
-		
-		
+	
+		System.out.println("this is a new test.");
 
 	}
 
