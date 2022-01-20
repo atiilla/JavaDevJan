@@ -32,7 +32,9 @@ public class App {
 		
 		int brutoSalary = 2000;
 		int TAX = 21;
-		int getTaxAmount = 
+		int getTaxAmount = (brutoSalary * TAX) / 100;
+		int netSalary = brutoSalary - getTaxAmount;
+		System.out.println(netSalary);
 		
 		
 		
