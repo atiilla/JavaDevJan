@@ -55,6 +55,8 @@ public class StringMethods {
 	
 	System.out.println("Index Of Result" + long_text.indexOf("Ipsum"));
 	
+	
+	
 	}
 
 }

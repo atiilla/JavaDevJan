@@ -90,9 +90,9 @@ public class DataTypes {
 		
 		// int result = _n2 / _n1; // 20/10 = 2
 		
-		/*
+	
 		 increment and decrement operator (++) (--)
-		 */
+		
 		
 		// increase ++
 		//_n1++; // 11
