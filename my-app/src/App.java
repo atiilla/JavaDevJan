@@ -27,6 +27,7 @@ public class App {
 		System.out.println(result);
 		*/
 		
+		
 		// (brutosalary * TAX) / 100 = 420
 		// 2000 - 420 = 1580
 		
@@ -38,6 +39,7 @@ public class App {
 	
 		System.out.println("this is a new test.");
 
+		int salary = 2100;
 	}
 
 }
