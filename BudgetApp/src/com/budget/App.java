@@ -12,8 +12,6 @@ public class App {
 		Scanner keyboard = new Scanner(System.in);
 		
 		
-		
-		
 		while(true) {
 			System.out.println("[1] + Add Income");
 			System.out.println("[2] - Add Expense");
@@ -49,6 +47,7 @@ public class App {
 			case 4:
 				
 				System.out.println("You're leaving.... bye bye");
+				keyboard.close();
 				System.exit(0);
 		
 				break;
@@ -56,7 +55,7 @@ public class App {
 			
 		}
 		
-
+		
 	}
 
 }

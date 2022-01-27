@@ -1,6 +1,8 @@
 package tutorial2;
 
 public class DataTypes {
+	public static void main(String[] args) {
+
 /*	public static void main(String[] args) {
 		// primitive data types
 		// byte char int boolean float long short double
@@ -108,4 +110,5 @@ public class DataTypes {
 		
 	}
 */
+	}
 }
