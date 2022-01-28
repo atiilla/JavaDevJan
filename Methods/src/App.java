@@ -67,7 +67,9 @@ public class App {
 		
 		FindUsername("Yohana");
 		
-		FindAndReplace();
+		// 2 parameters (object) // EMPTY
+		// replace with "EMPTY"
+		//FindAndReplace(arr,"Yohana");
 		
 	}
 	// method
